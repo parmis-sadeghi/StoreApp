@@ -1,0 +1,5 @@
+C:\Users\Lenovo\Desktop\StoreApp\StoreApp\obj\Debug\net6.0\StoreApp.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\StoreApp\StoreApp\obj\Debug\net6.0\StoreApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\StoreApp\StoreApp\obj\Debug\net6.0\StoreApp.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\StoreApp\StoreApp\obj\Debug\net6.0\StoreApp.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\StoreApp\StoreApp\obj\Debug\net6.0\StoreApp.csproj.CoreCompileInputs.cache
