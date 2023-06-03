@@ -14,6 +14,7 @@ namespace StoreApp
         static void Main(string[] args)
         {
             ConsoleHelper.Start();
+            Console.WriteLine("hello");
         }
     }
 }

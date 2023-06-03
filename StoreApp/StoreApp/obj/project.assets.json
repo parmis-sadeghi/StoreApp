@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\StoreApp\\StoreApp\\StoreApp.csproj",
+      "projectUniqueName": "C:\\Users\\Lenovo\\Source\\Repos\\parmis-sadeghi\\StoreApp\\StoreApp\\StoreApp\\StoreApp.csproj",
       "projectName": "StoreApp",
-      "projectPath": "C:\\Users\\Lenovo\\Desktop\\StoreApp\\StoreApp\\StoreApp.csproj",
+      "projectPath": "C:\\Users\\Lenovo\\Source\\Repos\\parmis-sadeghi\\StoreApp\\StoreApp\\StoreApp\\StoreApp.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lenovo\\Desktop\\StoreApp\\StoreApp\\obj\\",
+      "outputPath": "C:\\Users\\Lenovo\\Source\\Repos\\parmis-sadeghi\\StoreApp\\StoreApp\\StoreApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }
