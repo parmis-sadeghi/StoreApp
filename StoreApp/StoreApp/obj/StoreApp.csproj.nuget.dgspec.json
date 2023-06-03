@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lenovo\\Source\\Repos\\parmis-sadeghi\\StoreApp\\StoreApp\\StoreApp\\StoreApp.csproj": {}
+    "C:\\Users\\Lenovo\\source\\repos\\parmis-sadeghi\\StoreApp\\StoreApp\\StoreApp\\StoreApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lenovo\\Source\\Repos\\parmis-sadeghi\\StoreApp\\StoreApp\\StoreApp\\StoreApp.csproj": {
+    "C:\\Users\\Lenovo\\source\\repos\\parmis-sadeghi\\StoreApp\\StoreApp\\StoreApp\\StoreApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lenovo\\Source\\Repos\\parmis-sadeghi\\StoreApp\\StoreApp\\StoreApp\\StoreApp.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\source\\repos\\parmis-sadeghi\\StoreApp\\StoreApp\\StoreApp\\StoreApp.csproj",
         "projectName": "StoreApp",
-        "projectPath": "C:\\Users\\Lenovo\\Source\\Repos\\parmis-sadeghi\\StoreApp\\StoreApp\\StoreApp\\StoreApp.csproj",
+        "projectPath": "C:\\Users\\Lenovo\\source\\repos\\parmis-sadeghi\\StoreApp\\StoreApp\\StoreApp\\StoreApp.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lenovo\\Source\\Repos\\parmis-sadeghi\\StoreApp\\StoreApp\\StoreApp\\obj\\",
+        "outputPath": "C:\\Users\\Lenovo\\source\\repos\\parmis-sadeghi\\StoreApp\\StoreApp\\StoreApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
